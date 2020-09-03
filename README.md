@@ -1,6 +1,6 @@
 <h1 align="right">Hi 👋, I'm Abhijeet</h1>
-<h3 align="right">A Full Stack </h3>
-<h3 align="right">Web & Software Developer</h3>
+<p align="right">A Full Stack </p>
+<p align="right">Web & Software Developer</p>
 
 <!--
 **bapuAbhijeet/bapuAbhijeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
