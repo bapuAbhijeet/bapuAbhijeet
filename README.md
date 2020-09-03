@@ -1,6 +1,6 @@
-### Hi there 👋 I am Abhijeet
-                    Full Stack
-            Software Developer
+<h1 align="right">Hi 👋, I'm Abhijeet</h1>
+<h3 align="right">A Full Stack </h3>
+<h3 align="right">Web & Software Developer</h3>
 
 <!--
 **bapuAbhijeet/bapuAbhijeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
