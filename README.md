@@ -1,7 +1,9 @@
 <h1 align="right">Hi 👋, I'm Abhijeet</h1>
 
-<li align="right">A Full Stack </li>
-<li align="right">Web & Software Developer</li>
+<li align="right">A Full Stack Web & Software Developer</li>
+<li align="right"></li>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bapuAbhijeet" alt="bapuAbhijeet" /> </p>
 
 <p align="right">
 <a href="https://twitter.com/bapuabhijeet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bapuabhijeet" height="20" width="20" /></a>
