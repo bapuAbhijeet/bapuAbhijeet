@@ -1,8 +1,8 @@
 <h1 align="right">Hi 👋, I'm Abhijeet</h1>
-
+<ul style="list-style-type:none;">
 <li align="right">A Full Stack </li>
 <li align="right">Web & Software Developer</li>
-
+</ul>
 <img src="https://github-readme-stats.vercel.app/api?username=bapuAbhijeet&show_icons=true" alt="bapuAbhijeet" />
 
 <br/><br/>
