@@ -1,7 +1,7 @@
 <h1 align="right">Hi 👋, I'm Abhijeet</h1>
 
-<p align="right">A Full Stack </p>
-<p align="right">Web & Software Developer</p>
+<li align="right">A Full Stack </li>
+<li align="right">Web & Software Developer</li>
 
 <img src="https://github-readme-stats.vercel.app/api?username=bapuAbhijeet&show_icons=true" alt="bapuAbhijeet" />
 
