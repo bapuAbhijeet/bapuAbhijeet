@@ -1,8 +1,9 @@
 <h1 align="right">Hi 👋, I'm Abhijeet</h1>
-<textarea id="w3review" name="w3review" rows="4" cols="50">
+
 <p align="right">A Full Stack </p>
 <p align="right">Web & Software Developer</p>
-</textarea>
+
+<img src="https://github-readme-stats.vercel.app/api?username=bapuAbhijeet&show_icons=true" alt="bapuAbhijeet" />
 
 <br/><br/>
 <p align="center">
