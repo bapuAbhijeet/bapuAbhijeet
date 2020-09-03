@@ -7,9 +7,9 @@
 
 <p align="right">
 <a href="https://twitter.com/bapuabhijeet" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bapuabhijeet" height="20" width="20" /></a>
-<a href="https://www.linkedin.com/in/abhijeetbehera/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abhijeetbehera" height="20" width="20" /></a>
-<a href="https://www.facebook.com/abhijeet.bapu/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sachin.mathers.7" height="20" width="20" /></a>
-<a href="https://www.instagram.com/bapuabhijeet/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="bapuabhijeet" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/abhijeetbehera/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abhijeetbehera" height="20" width="20" /></a>
+<a href="https://www.facebook.com/abhijeet.bapu/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sachin.mathers.7" height="20" width="20" /></a>
+<a href="https://www.instagram.com/bapuabhijeet/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="bapuabhijeet" height="20" width="20" /></a>
 </p>
 
 
