@@ -1,6 +1,7 @@
 <h1 align="right">Hi 👋, I'm Abhijeet</h1>
 <p align="right"><img src="https://komarev.com/ghpvc/?username=bapuAbhijeet" alt="bapuAbhijeet" /></p>
 
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="abhijeetbehera"><a class="LI-simple-link" href='https://in.linkedin.com/in/abhijeetbehera?trk=profile-badge'>ABHIJEET BEHERA</a></div>
 
 <p align="right">A Full Stack Web & Software Developer</p>
 <br><br>
